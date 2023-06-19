@@ -1,0 +1,12 @@
+version: "0.0.1"
+description: "Semver lib [github.com/h2non/semver.c]"
+url: "https://github.com/stan-kondrat/semver-esp-component"
+files:
+  exclude:
+    - "src"
+    - ".github"
+  include:
+    - "src/semver.c"
+    - "src/semver.h"
+    - "src/LICENSE"
+    - "src/README.md"
