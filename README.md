@@ -14,7 +14,7 @@ dependencies:
     version: ">=5"
   semver:
     path: .
-    git: ssh://git@github.com/stan-kondrat/semver-esp-component.git
+    git: https://github.com/stan-kondrat/semver-esp-component.git
 ```
 
 2. Reconfigure project
